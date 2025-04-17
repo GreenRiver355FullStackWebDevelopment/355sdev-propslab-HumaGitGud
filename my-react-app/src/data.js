@@ -1,5 +1,5 @@
 //Note: These are family recipes from the professor who wrote this lab, feel free to make them!
-export const recipes = [
+export const recipesData = [
   {
     name: "Banana Bread",
     ingredients: [
